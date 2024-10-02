@@ -21,3 +21,15 @@
 - Tutorials Dojo - AZ-104 Microsoft Azure Administrator Practice Exams: https://tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 - ExamTopics - Microsoft AZ-104 Exam: https://www.examtopics.com/exams/microsoft/az-104/
 - Practice Assessments for Microsoft Certifications: https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications
+
+### Guides/Cheat Sheets
+
+- Tutorials Dojo - Azure Cheat Sheets: https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
+
+### Azure Certifications Sub-Reddit
+
+- [r/AzureCertification](https://www.reddit.com/r/AzureCertification/) brings in your discussions, questions , opinions, news and comments around Azure certifications areas like prep tips, clarifications, lessons learned.
+
+### Azure Architecture Center
+
+- Azure Architecture: 📖 Explore [here](https://learn.microsoft.com/en-us/azure/architecture/browse/)
