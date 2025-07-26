@@ -5,6 +5,7 @@
 - Certification exam preparation by Azure: [**here**](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
 - Study guide: [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
 - [MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
+- AZ-104 whiteboard: https://github.com/johnthebrit/CertificationMaterials/blob/main/whiteboards/AZ-104-Whiteboard-v2.png
 
 ### Learning Resources - Videos
 
